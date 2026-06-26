@@ -11,7 +11,7 @@
   &nbsp;·&nbsp;
   <a href="mailto:hassanraja.dev@gmail.com">Email</a>
   &nbsp;·&nbsp;
-  <a href="hassan-abdullah.vercel.app">Portfolio</a>
+  <a href="https://hassan-abdullah.vercel.app">Portfolio</a>
 </p>
 
 <br>
